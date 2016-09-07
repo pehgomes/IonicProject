@@ -8,7 +8,7 @@ angular.module('starter.services', [])
     id: 0,
     name: 'Pedro H. Gomes',
     lastText: 'Estamos desenvolvendo nossa primeira aplicação.',
-    face: 'img/ben.png'
+    face: 'img/pedro.jpg'
   }, {
     id: 1,
     name: 'Max Lynx',
